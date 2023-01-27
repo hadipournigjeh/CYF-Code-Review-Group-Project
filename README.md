@@ -31,8 +31,7 @@ someone has already tried using the same strategy to solve the same problem you
 want to work on. You can always find a slightly different approach, and
 comparing your solutions will be a good topic for the retrospective.
 
-As usual, it's more important to write great solutions to easy problems than to
-write ok solutions to hard challenges. So take it easy and have some fun.
+Take it easy and have some fun.
 
 ### Template
 
@@ -96,7 +95,7 @@ write ok solutions to hard challenges. So take it easy and have some fun.
 
 Your group doesn't need to plan much for this, it's a group exercise not a full
 project. There's no need for a backlog, dev-strategy, wireframe, ... all you
-need is a a project board with:
+need is a a [project board](https://docs.github.com/en/github-ae@latest/issues/organizing-your-work-with-project-boards/managing-project-boards/creating-a-project-board#creating-a-repository-project-board) with:
 
 - _todo_ - solutions someone wants to try writing
 - _doing_ - the solution you are currently working on
@@ -115,11 +114,7 @@ Besides that, just go for it.
 ## Code Review
 
 Writing your solution is only half of the exercise, reviewing each other's code
-is the other half. You've already had some experience with reviewing HTML and
-CSS in
-[Incremental Development](https://github.com/hackyourfuturebelgium/incremental-developmen),
-so you know that it's important to look over each others' work before merging to
-main/master.
+is the other half.
 
 ### Branches and PRs
 
@@ -186,9 +181,9 @@ So you're ready to start coding? If you haven't cloned this repository already
 you should, and then ...
 
 1. Clone this repository:
-   - `$ git clone git@github.com:HackYourFutureBelgium/practice-code-review.git`
+   - `$ git clone git@github.com:CodeYourFuture/CYF-Code-Review-Group-Project.git`
 2. Navigate to this repository in your local computer
-   - `$ cd practice-code-review`
+   - `$ cd CYF-Code-Review-Group-Project`
 3. Install the project's development dependencies - you will need these for the
    code quality automation:
    - `$ npm install`
